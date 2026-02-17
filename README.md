@@ -100,7 +100,7 @@ Performance was evaluated using:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - pandas  
@@ -111,7 +111,7 @@ Performance was evaluated using:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - End-to-end machine learning workflow  
 - Feature engineering  

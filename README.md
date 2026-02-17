@@ -2,7 +2,7 @@
 
 ---
 
-##Overview
+## Overview
 
 This project was completed as part of a competitive Kaggle data science challenge and was assigned during my Business Analytics course during undergrad. 
 The objective was to develop a predictive model using structured data and evaluate performance using standard machine learning metrics.
@@ -16,7 +16,7 @@ The project demonstrates applied skills in:
 
 ---
 
-## 🎯 Business / Analytical Objective
+## Business / Analytical Objective
 
 The goal of this analysis was to:
 
@@ -27,7 +27,7 @@ The goal of this analysis was to:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** Kaggle competition dataset  
 - **Observations:** 1460
